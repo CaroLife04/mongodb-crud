@@ -6,6 +6,8 @@ config*
 
 poetry.*
 
+*.toml
+
 test_*   
 
 .Ds_Store
